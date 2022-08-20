@@ -5,7 +5,7 @@
 
 [![Twitter: T0kel0](https://img.shields.io/twitter/follow/T0kel0?style=social)](https://twitter.com/t0kel0)
 [![Linkedin: Mathabathe Tokelo](https://img.shields.io/badge/-MathabatheTokelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://za.linkedin.com/in/tokelo-mathabathe-a1a0381ba)](https://za.linkedin.com/in/tokelo-mathabathe-a1a0381ba)
-[![GitHub Tokelo](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/MathabatheTokelo/)
+[![GitHub Tokelo](https://img.shields.io/github/followers/MathabatheTokelo?label=follow&style=social)](https://github.com/MathabatheTokelo/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
