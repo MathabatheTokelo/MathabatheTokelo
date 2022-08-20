@@ -1,7 +1,7 @@
 <h2> Hi, I'm Mathabathe Tokelo! <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50"></h2>
 <img align="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
 
-<img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="500"> 
+<img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="1000"> 
 
 <p><em>I'm a Final Year Network Enginnering Student @<a href="http://www.richfield.ac.za/">Richfield Graduate Institute Of Technology </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>I do a little blogging at <a href="https://hashnode.com/@Tokelo75">Tokelo75</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
