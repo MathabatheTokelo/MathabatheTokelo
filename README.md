@@ -1,4 +1,4 @@
-<h2> Hi, I'm Mathabathe Tokelo! <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50"></h2>
+<h1> Hi, I'm Mathabathe Tokelo! <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50"></h1>
 <img align="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
 
 
