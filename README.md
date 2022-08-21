@@ -22,7 +22,7 @@ const tokelo = {
   technologies: [  HTML5, CSS3, SQL, C++, Java, Javascript],
   tools: [VScode, Visual Studio, IntelliJ, Codeblocks IDE],
                         
-  presently: "My current focused is on Java and Javascript"
+  presently: "My current focused is Flutter"
 }
 ```
 <h3 align="left">Languages and Tools:</h3>
