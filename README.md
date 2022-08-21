@@ -1,7 +1,7 @@
 <h2> Hi, I'm Mathabathe Tokelo! <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50"></h2>
 <img align="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
 
-<img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="1000"> 
+
 
 <p><em>I'm a Final Year Network Enginnering Student @<a href="http://www.richfield.ac.za/">Richfield Graduate Institute Of Technology </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>I do a little blogging at <a href="https://hashnode.com/@Tokelo75">Tokelo75</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -12,6 +12,8 @@
 [![Linkedin: Mathabathe Tokelo](https://img.shields.io/badge/-MathabatheTokelo-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://za.linkedin.com/in/tokelo-mathabathe-a1a0381ba)](https://za.linkedin.com/in/tokelo-mathabathe-a1a0381ba)
 [![GitHub Tokelo](https://img.shields.io/github/followers/MathabatheTokelo?label=follow&style=social)](https://github.com/MathabatheTokelo/)
 
+
+<img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="1000"> 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
