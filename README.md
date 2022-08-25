@@ -20,7 +20,7 @@
 ```javascript
 const tokelo = {
   technologies: [  HTML5, CSS3, SQL, C++, Java, Javascript],
-  tools: [VScode, Visual Studio, IntelliJ, Codeblocks IDE],
+  tools: [VScode, Visual Studio, IntelliJ, Codeblocks IDE, Android Studio],
                         
   presently: "My current focused is Flutter"
 }
