@@ -3,8 +3,6 @@
 </em></p>
 
 
-
-
 [![Linkedin: Mathabathe Tokelo](https://img.shields.io/badge/-MathabatheTokelo-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://za.linkedin.com/in/tokelo-mathabathe-a1a0381ba)](https://za.linkedin.com/in/tokelo-mathabathe-a1a0381ba)
 [![GitHub Tokelo](https://img.shields.io/github/followers/MathabatheTokelo?label=follow&style=social)](https://github.com/MathabatheTokelo/)
 
