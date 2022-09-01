@@ -8,7 +8,7 @@
 [![GitHub Tokelo](https://img.shields.io/github/followers/MathabatheTokelo?label=follow&style=social)](https://github.com/MathabatheTokelo/)
 
 
-<img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="700"> 
+<img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="750"> 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70"> A little more about me...  
 
