@@ -1,4 +1,4 @@
-<h1> Hi, I'm Mathabathe Tokelo! <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="79></h1>
+<h1> Hi, I'm Mathabathe Tokelo! <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="74></h1>
 <h3>I'm a Final Year Network Enginnering Student @<a href="http://www.richfield.ac.za/">Richfield Graduate Institute Of Technology</a> </h3>
 <h4> I do a little blogging at <a href="https://hashnode.com/@Tokelo75">Tokelo75</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"> 
 </em><h4>
