@@ -14,10 +14,10 @@
 
 ```javascript
 const tokelo = {
-  technologies: [  HTML5, CSS3, SQL, C++, Java, Javascript],
+  technologies: [  HTML5, CSS3, SQL, C++, Dart, Flutter],
   tools: [VScode, Visual Studio, IntelliJ, Codeblocks IDE, Android Studio],
                         
-  presently: "My current focused is Flutter"
+  challenge: "I'm currently doing the #100dayCodeChallenge focused on flutter and firebase"
 }
 ```
 <h3 align="left">Languages and Tools:</h3>
