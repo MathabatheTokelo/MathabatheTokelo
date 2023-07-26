@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/appledesire/appledesire/main/gitartwork.svg" width="1000"> 
+
 <h1> Hi, I'm Mathabathe Tokelo! <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"> </h1>
 <h3>I'm a <a href="http://www.richfield.ac.za/">Richfield Graduate Institute Of Technology</a> IT Graduate</h3>
 <h4> I do a little blogging at <a href="https://hashnode.com/@Tokelo75">Tokelo75</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"> 
